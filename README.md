@@ -1,7 +1,6 @@
 # vue.js-for-beginners-juandi
-<<<<<<< HEAD
+
 following Simone Cuomo's "Vue.js 3 for Beginners" book
-=======
 
 This template should help get you started developing with Vue 3 in Vite.
 
