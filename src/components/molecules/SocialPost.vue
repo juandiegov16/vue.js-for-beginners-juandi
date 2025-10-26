@@ -26,17 +26,20 @@ onMounted(() => {
 <style lang="scss">
 .SocialPost {
   &_selected {
-    border: black solid 1px;
+    border: white solid 1px;
   }
+
   .header {
     display: flex;
     align-items: center;
     margin-bottom: 8px;
   }
+
   .avatar {
     border-radius: 50%;
     margin-right: 12px;
   }
+
   .name {
     font-weight: bold;
     margin-right: 8px;

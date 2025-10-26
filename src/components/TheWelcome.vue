@@ -1,7 +1,7 @@
 <script setup>
-import { reactive } from 'vue'
+import { reactive} from 'vue'
 import SocialPost from './molecules/SocialPost.vue'
-import TestFooter from './molecules/TestFooter.vue'
+//import TestFooter from './molecules/TestFooter.vue'
 const posts = reactive([
   {
     username: 'Username one',
@@ -31,5 +31,5 @@ const posts = reactive([
     :avatarSrc="posts[1].avatarSrc"
     :post="posts[1].post"
   ></SocialPost>
-  <TestFooter />
+ <!--<TestFooter />-->
 </template>
