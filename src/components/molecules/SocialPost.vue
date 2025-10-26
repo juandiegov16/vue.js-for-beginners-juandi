@@ -43,7 +43,7 @@ onMounted(() => {
   .name {
     font-weight: bold;
     margin-right: 8px;
-    color: black;
+    color: white;
   }
 }
 </style>
